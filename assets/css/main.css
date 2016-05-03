@@ -3225,7 +3225,7 @@
 			filter: blur(2px);
 		}
 
-		body.is-loading #banner p {
+		body.is-loading #banner p h3 {
 			opacity: 0;
 			-moz-transform: translateX(0.5em);
 			-webkit-transform: translateX(0.5em);
@@ -3237,6 +3237,7 @@
 			filter: blur(2px);
 		}
 
+		/**
 		body.is-loading #banner h3 {
 			opacity: 0;
 			-moz-transform: translateX(0.75em);
@@ -3248,6 +3249,7 @@
 			-ms-filter: blur(2px);
 			filter: blur(2px);
 		}
+		**/
 
 		body.is-loading #banner h4 {
 			opacity: 0;
