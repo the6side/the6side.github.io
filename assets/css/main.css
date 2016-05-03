@@ -3225,7 +3225,7 @@
 			filter: blur(2px);
 		}
 
-		body.is-loading #banner p h3 {
+		body.is-loading #banner p {
 			opacity: 0;
 			-moz-transform: translateX(0.5em);
 			-webkit-transform: translateX(0.5em);
