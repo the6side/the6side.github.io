@@ -3246,14 +3246,14 @@
 			-moz-filter: blur(2px);
 			-webkit-filter: blur(2px);
 			-ms-filter: blur(2px);
-
 			filter: blur(2px);
 		}
+
 		body.is-loading #banner h4 {
 			opacity: 0;
 			-moz-transform: translateX(1.0em);
 			-webkit-transform: translateX(1.0em);
-			-ms-transform: translateX(1.9em);
+			-ms-transform: translateX(1.0em);
 			transform: translateX(1.0em);
 			-moz-filter: blur(2px);
 			-webkit-filter: blur(2px);
