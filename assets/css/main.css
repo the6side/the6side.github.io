@@ -3062,7 +3062,7 @@
 				width: 2.25em;
 			}
 
-		#banner h2 {
+		#banner h2, h3, h4 {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
 			-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, -ms-filter 0.25s ease;
